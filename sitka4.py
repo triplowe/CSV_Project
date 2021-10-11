@@ -36,7 +36,7 @@ for row in csv_file:
 #print(dates)
 #print(lows)
 
-'''
+
 fig = plt.figure()
 
 plt.title("Daily high temperatures, July 2018", fontsize = 16)
@@ -65,4 +65,3 @@ plt.title("Lows")
 plt.suptitle("Highs and Lows of Sitka Alaska")
 
 plt.show()
-'''
